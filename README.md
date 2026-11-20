@@ -146,8 +146,8 @@ Codex-Startup-Animation/
 │   │   ├── DragonCodexBootCore/
 │   │   │   └── LauncherConfiguration.swift      # 配置编解码、校验与平滑淡出曲线
 │   │   └── DragonCodexBootMac/
-│   │       ├── DesktopFill.swift                # 可选铺满桌面可见区域辅助定位
-│   │       └── main.swift                       # AppKit / AVKit 原生播放与 LaunchAgent 监视器
+│   │       ├── App.swift                        # AppKit / AVKit 原生播放与 LaunchAgent 监视器
+│   │       └── DesktopFill.swift                # 可选铺满桌面可见区域辅助定位
 │   └── Tests/
 │       └── DragonCodexBootCoreTests/
 │           └── LauncherConfigurationTests.swift # 配置与淡出曲线单元测试

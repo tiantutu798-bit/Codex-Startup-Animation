@@ -27,7 +27,7 @@ swiftc \
   -framework ApplicationServices \
   "$repo_root/macos/Sources/DragonCodexBootCore/LauncherConfiguration.swift" \
   "$repo_root/macos/Sources/DragonCodexBootMac/DesktopFill.swift" \
-  "$repo_root/macos/Sources/DragonCodexBootMac/main.swift" \
+  "$repo_root/macos/Sources/DragonCodexBootMac/App.swift" \
   -o "$build_root/DragonCodexBootMac"
 
 rm -rf "$app_bundle"
