@@ -1,0 +1,14 @@
+{
+  "DisplayName": "Codex 启动动画",
+  "Video": "media/welcome-glass-4k-12s.mp4",
+  "AppBundleIdentifier": "com.openai.codex",
+  "AppPath": "",
+  "HoldAt": 6.2,
+  "TransitionStart": 10.6,
+  "TransitionEnd": 12.0,
+  "MaxWaitSeconds": 60,
+  "Volume": 1.0,
+  "Fullscreen": true,
+  "PlayerWidth": 1920,
+  "PlayerHeight": 1080
+}

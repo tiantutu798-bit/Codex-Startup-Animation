@@ -1,0 +1,12 @@
+# Build & SPM artifacts
+build/
+dist/
+.build/
+macos/.build/
+macos/.swiftpm/
+
+# macOS & Editor files
+.DS_Store
+*.log
+*.swp
+*~
